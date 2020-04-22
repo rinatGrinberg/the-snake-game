@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1585247709 source:c:\users\rinat\desktop\snake2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<ctime>
+	<stdio.h>
+
